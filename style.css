@@ -3,4 +3,21 @@
 body {
 	font-family: Outfit, "san-serif";
 	font-weight: normal;
+	background-color: hsl(212, 45%, 89%);
+}
+
+h1 {
+	line-height: 120%;
+}
+
+p {
+	letter-spacing: 0.2px;
+	list-style: 140%;
+}
+
+main {
+	background-color: hsl(0, 0%, 100%);
+	max-width: 320px;
+	max-height: 499px;
+	border-radius: 20px;
 }
